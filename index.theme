@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix Dark Violet
+Comment=Variant of Numix with purple highlights and dark backgrounds
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NumixDarkViolet
+MetacityTheme=NumixDarkViolet
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
