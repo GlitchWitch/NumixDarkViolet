@@ -1,9 +1,11 @@
 # Numix Dark Violet
-A modern flat theme with dark elements. Only tested on XFCE with Ubuntu 18.04
+A modern flat theme with dark elements.
 
 [![By The Numix Project](https://img.shields.io/badge/By-The%20Numix%20Project-f0544c.svg?style=flat-square)](https://numixproject.org/)
 
 Hacked together using Numix Daily, Numix Blue, Numix Dark, and [numix-themes-darkblue](https://aur.archlinux.org/cgit/aur.git/tree/dark_colors.patch?h=numix-themes-darkblue)
+
+![Screenshot of tjeme](screenshot.png)
 
 ### Manual installation
 
